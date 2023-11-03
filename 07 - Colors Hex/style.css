@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    height: 100vh;
+    background-color: #476de7;
+    text-align: center;
+}
+
+.centrar-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contenedor {
+    height: 220px;
+    width: 450px;
+    background-image: url("img/crayol.jpg");
+    background-color: #ffffff;
+    background-position: center;
+    background-size: cover;
+    border: 1px solid #000000;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border-radius: 40px;
+    
+
+}
+
+#color {
+    font-size: 70px;
+    font-weight: bold;
+
+}
+
+button {
+    font-size: 30px;
+    color: #ffffff;
+    border-radius: 20px;
+    background-color: #008cba ;
+    margin: 15px;
+    padding: 10px 30px;
+    border: 3px solid #008cba;
+    user-select: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: #005470;
+    
+}

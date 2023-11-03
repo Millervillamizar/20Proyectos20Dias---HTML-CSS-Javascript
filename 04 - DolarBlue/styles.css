@@ -1,0 +1,80 @@
+/* styles.css */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  background-image: url(img/finanza.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+
+.toolbar {
+  background-color: #2196F3;
+  color: #fff;
+  align-items: center;
+  width: 100%;
+  height: 80px;
+  padding: 25px;
+
+  
+}
+
+.titulo {
+  text-align: center;
+  font-size: 28px;
+  margin-top: -10px;
+
+}
+.blue-data-container {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 40px;
+    width: 350px;
+    height: 150 px;
+   
+   
+  }
+  
+  .blue-value {
+    font-size: 24px;
+    margin: 10px;
+    
+  }
+  
+  .blue-label {
+    
+    margin-top: 10px;
+    padding: 1px;
+    font-size: 18px;
+    color: #333;
+    
+  }
+
+  .footer {
+    background-color: #e4e4e4;
+    text-align: center;
+    margin-top: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 14px;
+    width: 300px;
+    font-weight: bold;
+    color: #000000;
+  }
+  .date {
+    font-size: 14px;
+    color: #000000;
+    text-align: center;
+    margin-top: 10px;
+  }
