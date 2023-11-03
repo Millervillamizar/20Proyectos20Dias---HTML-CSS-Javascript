@@ -35,5 +35,8 @@ Este repositorio contiene mi trabajo para el "Reto de 20 Días de Proyectos HTML
 
 ## Contacto
 
-GitHub: @millervillamizar
-LinkedIn: https://www.linkedin.com/in/miller-villa/
+- GitHub: @millervillamizar
+- LinkedIn: https://www.linkedin.com/in/miller-villa/
+
+
+
